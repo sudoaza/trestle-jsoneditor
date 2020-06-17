@@ -1,6 +1,6 @@
 {
   "name": "trestle-jsoneditor",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "> [JSONEditor](https://github.com/josdejong/jsoneditor) integration plugin for the Trestle admin framework",
   "main": "index.js",
   "directories": {
